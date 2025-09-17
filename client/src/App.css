@@ -1,3 +1,13 @@
+/* Apply grey background to entire page */
+html, body, #root {
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  width: 100%;
+}
+
+/* Existing styles */
 #root {
   max-width: 1280px;
   margin: 0 auto;
