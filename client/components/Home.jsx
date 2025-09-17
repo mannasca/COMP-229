@@ -1,5 +1,6 @@
 export default function Home() {
     return (
+      
     <div className="px-6 py-12 max-w-4xl mx-auto text-center">
      
       <section className="mb-10">
@@ -38,3 +39,12 @@ export default function Home() {
     </div>
   );
 }
+
+const Home = () => {
+  return (
+    <div>
+      <h1>Welcome to My Portfolio</h1>
+      <img src="/images/profile.png" alt="Profile" />
+    </div>
+  );
+};
