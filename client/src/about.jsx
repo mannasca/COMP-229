@@ -4,7 +4,7 @@ export default function About() {
   return (
     <section>
       <h2>About Me</h2>
-      <img src="/images/profile.png" alt="My headshot" width="150" />
+      <img src="/images/profile-placeholder.png" alt="My headshot" width="150" />
       <p><strong>Legal Name:</strong> Anas Sattar</p>
       <p>
         I’m a web developer passionate about creating user-friendly, modern web applications.
