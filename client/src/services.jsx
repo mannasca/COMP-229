@@ -1,9 +1,9 @@
 import React from 'react';
 
 const services = [
-  { id: 1, title: 'Web Development', desc: 'Responsive websites using React and modern frameworks.', img: './img1.png'},
-  { id: 2, title: 'API Integration', desc: 'Connecting applications with REST and GraphQL APIs.', img: './img2.png'},
-  { id: 3, title: 'Performance Optimization', desc: 'Improving speed, accessibility, and SEO.', img: './img3.png'},
+  { id: 1, title: 'Web Development', desc: 'Responsive websites using React and modern frameworks.', img: '/images/img1.png'},
+  { id: 2, title: 'API Integration', desc: 'Connecting applications with REST and GraphQL APIs.', img: '/images/img2.png'},
+  { id: 3, title: 'Performance Optimization', desc: 'Improving speed, accessibility, and SEO.', img: '/images/img3.png'},
 ];
 
 export default function Services() {

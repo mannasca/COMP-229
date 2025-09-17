@@ -40,11 +40,4 @@ export default function Home() {
   );
 }
 
-const Home = () => {
-  return (
-    <div>
-      <h1>Welcome to My Portfolio</h1>
-      <img src="/images/profile.png" alt="Profile" />
-    </div>
-  );
-};
+

@@ -5,7 +5,7 @@ return (
 <>
 {/* Center aligned image */}
       <div style={{ textAlign: "center" }}>
-        <img src="./img4.png" alt="logo" height="150" width="200" />
+        <img src="./images/img4.png" alt="logo" height="150" width="200" />
       </div>
 <h1 style={{ textAlign: "center" }}>My Portfolio</h1>
 
